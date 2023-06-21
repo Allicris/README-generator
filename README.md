@@ -1,5 +1,5 @@
 
-# c
+# README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,25 +13,25 @@
 - [Video](#Video)
 
 ## Description
-c
+My project uses node, inquirer and the file system to create a file and insert content inside
 
 ## Usage
-c
+To generate files in general but in my case to generate README files
 
 ## License
 Licensed under the [MIT](https://choosealicense.con/licenses/mit/) license
 
 ## Installation
-c
+n/a
 
 ## Contribution
-c
+By copying the starter code into their terminal and opening it with VS Code
 
 ## Tests
-c
+Using the console.log and jest
 
 ## Questions
-c
+Email: allisonserrano171@yahoo.com and Github: https://github.comAllicris
 
 ## Video
-c
+https://drive.google.com/file/d/1ZUKFSPHAK3rT2qLK_k493ZaR8Qx4dZrF/view

@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) { 
     const licenseLinks = {
         ISC: '[ISC](https://choosealicense.com/licenses/isc/)',
-        MIT: '[MIT](https://choosealicense.con/licenses/mit/)',
+        MIT: '[MIT](https://choosealicense.com/licenses/mit/)',
     }
     return licenseLinks[license]
 }
